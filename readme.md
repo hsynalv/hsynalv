@@ -8,7 +8,7 @@
 
 - :earth_africa: More about me [Personalize website](http://hhsynalv.com/)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
 <p align="left">
   <a href="https://twitter.com/beyazskorsky" target="_blanked"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
