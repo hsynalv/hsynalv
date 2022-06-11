@@ -5,8 +5,8 @@
 
 - :computer: I love programming, cyber security, and books
 - :muscle: I’m addicted to learning and growing every day
-- :earth_africa: More about me [Personalize website](http://hhsynalv.com/)
-- 📝 I regularly write articles on [https://skorskyblog.me/](https://skorskyblog.me/)
+- :earth_africa: More about me <a href="http://hhsynalv.com/" target="_blank">Personalize website</a>
+- 📝 I regularly write articles on <a href="https://skorskyblog.me/" target="_blank">https://skorskyblog.me/</a>
 
 <h3 align="left">Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
 <p align="left">
