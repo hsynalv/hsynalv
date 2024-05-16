@@ -5,7 +5,7 @@
 
 - :computer: I love programming, cyber security, and books
 - :muscle: I’m addicted to learning and growing every day
-- 📝 I regularly write articles on <a href="https://skorskyblog.me/" target="_blank">https://skorskyblog.me/</a>
+- 📝 I regularly write articles on <a href="https://cyberskorsky.me/" target="_blank">https://skorskyblog.me/</a>
 
 <h3 align="left">Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3>
 <p align="left">
